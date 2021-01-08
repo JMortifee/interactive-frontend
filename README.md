@@ -8,7 +8,7 @@
 5. [Testing](#testing)
 6. [Deployment](#deployment)
 7. [Credits](#credits)
-8. <a href="https://jmortifee.github.io/interactiv-frontend/" target="_blank">Site</a>
+8. <a href="https://jmortifee.github.io/interactive-frontend/" target="_blank">Site</a>
 
 ## Introduction <a name="intro"></a>
 For this project, I have decided to develop a memory game in JavaScript. The overall goal of the project will be to create an attractive and intuitive game that shows of the work of an artist, directing traffic and inquiries to their site. The website contains only one page in which the game will be displayed, comprising of custom HTML5 and a supporting CSS3 style document as well as a JavaScript file.
@@ -211,7 +211,7 @@ I then scrolled down to the GitHub pages section where I then selected the branc
 
 ![screenshot of GitHub pages section of the settings tab](screenshots/deploy.png)
 
-Within several minutes the site was live at this address: https://jmortifee.github.io/interactive-frontend/index.html
+Within several minutes the site was live at this address: https://jmortifee.github.io/interactive-frontend/
 
 ## Credits <a name="credits"></a>
 
@@ -223,4 +223,4 @@ __Shuffle:__ The random number generator and shuffle function I found on youtube
 
 __Card back:__ <a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/white-paint-splash-on-black-background-biwa-studio.jpg" target="_blank">Here is a link to the card back image</a>
 
-Click <a href="https://jmortifee.github.io/interactiv-frontend/" target="_blank">here</a> to view the site.
+Click <a href="https://jmortifee.github.io/interactive-frontend/" target="_blank">here</a> to view the site.
