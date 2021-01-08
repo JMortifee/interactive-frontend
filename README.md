@@ -207,13 +207,11 @@ Large screen size:
 I used GitHub pages to deploy my site. This tool makes it very easy to deploy your site.
 Once all of my files were in there final deployment state, I went to the settings tab of the GitHub Repo I wanted to deploy.
 
-![screenshot of my project repo settings tab](#)
+I then scrolled down to the GitHub pages section where I then selected the branch from which to deploy (main):
 
-I then scrolled down to the GitHub pages section where I then selected the branch from which to deploy (master):
+![screenshot of GitHub pages section of the settings tab](screenshots/deploy.png)
 
-![screenshot of GitHub pages section of the settings tab](#)
-
-Within several minutes the site was live at this address: https://jmortifee.github.io/user-centric-front-end/index.html
+Within several minutes the site was live at this address: https://jmortifee.github.io/interactive-frontend/index.html
 
 ## Credits <a name="credits"></a>
 
