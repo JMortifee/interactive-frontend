@@ -1,4 +1,4 @@
-# Greenstride (UX Design for User-Centric Front End Milestone Project) 
+# Artist Memory Game (Interactive Frontend Milestone Project) 
 
 # Table of Contents
 1. [Introduction](#intro) 
